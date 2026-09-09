@@ -11,6 +11,7 @@ Please refer to the official website for the original dataset files: [https://ww
 Alternatively, you can access the dataset via the following Google Drive link: [https://drive.google.com/drive/folders/1VixVjFAHsyOKVFUA1OKOl3-G3m01XVNe?usp=sharing]
 
 ## Usage
+Open CC_DETA-update.ipynb flie in google colab
 
 ### Step 1: Set the Project Root Path
 
